@@ -8,7 +8,8 @@ from PyQt5.QtWidgets import QMainWindow, QApplication, QLabel
 import mainapp
 import time
 from threading import Thread, Event, Timer
-#a
+
+
 class MainWindow(QMainWindow):
     Wx = 1920
     Wy = 1080
@@ -32,7 +33,7 @@ class MainWindow(QMainWindow):
     
     def actualize_type(self, pk):
         
-        pokemon = mainscript.get_pokemon_res(pk)
+        pokemon = mainscript.get_pokemon_res_csv(pk)
         self.old_pk = pk
         if pokemon == None:
             return 0
@@ -61,7 +62,7 @@ class MainWindow(QMainWindow):
         self.text[name].setStyleSheet("QLabel { color : black; font-size: 20px; font-weight: bold; font-family: Arial; }")
     def actualize(self):
         pk = mainapp.get_pk()
-        if mainscript.get_pokemon_res(pk) == 0:
+        if mainscript.get_pokemon_res_csv(pk) == 0:
             if self.windowOpacity != 0.1:
                     self.setWindowOpacity(0.1)
         else:
@@ -81,7 +82,7 @@ if __name__ == '__main__':
     mywindow.show()
     timer = QTimer()
     timer.timeout.connect(mywindow.actualize)  # execute `display_time`
-    timer.setInterval(500)  # 1000ms = 1s
+    timer.setInterval(100)  # 1000ms = 1s
     timer.start()
     app.exec_()
 
