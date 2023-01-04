@@ -2,15 +2,11 @@ Namefr
 Bulbizarre
 Herbizarre
 Florizarre
-Mega Florizarre
 Salamèche
 Reptincel
 Dracaufeu
-Mega Dracaufeu X
-Mega Dracaufeu Y
 Carapuce
 Carabaffe
-Mega Tortank
 Tortank
 Chenipan
 Chrysacier
@@ -18,11 +14,9 @@ Papilusion
 Aspicot
 Coconfort
 Dardargnan
-Mega Dardargnan
 Roucool
 Roucoups
 Roucarnage
-Mega Roucarnage
 Rattata
 Rattata
 Rattatac
@@ -82,7 +76,6 @@ Tartard
 Abra
 Kadabra
 Alakazam
-Mega Alakazam
 Machoc
 Machopeur
 Mackogneur
@@ -105,7 +98,6 @@ Ramoloss
 Ramoloss
 Flagadoss
 Flagadoss
-Mega Flagadoss
 Magnéti
 Magnéton
 Canarticho
@@ -123,7 +115,6 @@ Crustabri
 Fantominus
 Spectrum
 Ectoplasma
-Mega Ectoplasma
 Onix
 Soporifik
 Hypnomade
@@ -148,7 +139,6 @@ Rhinoféros
 Leveinard
 Saquedeneu
 Kangourex
-Mega Kangourex
 Hypotrempe
 Hypocéan
 Poissirène
@@ -162,11 +152,9 @@ Lippoutou
 Elektek
 Magmar
 Scarabrute
-Mega Scarabrute
 Tauros
 Magicarpe
 Léviator
-Mega Léviator
 Locklass
 Métamorph
 Evoli
@@ -179,7 +167,6 @@ Amonistar
 Kabuto
 Kabutops
 Ptéra
-Mega Ptéra
 Ronflex
 Artikodin
 Electhor
@@ -188,8 +175,6 @@ Minidraco
 Draco
 Dracolosse
 Mewtwo
-Mega Mewtwo X
-Mega Mewtwo Y
 Mew
 Germignon
 Macronium
@@ -221,7 +206,6 @@ Xatu
 Wattouat
 Lainergie
 Pharamp
-Mega Pharamp
 Joliflor
 Marill
 Azumarill
@@ -249,15 +233,12 @@ Foretress
 Insolourdo
 Scorplane
 Steelix
-Mega Steelix
 Snubbull
 Granbull
 Qwilfish
 Cizayox
-Mega Cizayox
 Caratroc
 Scarhino
-Mega Scarhino
 Farfuret
 Teddiursa
 Ursaring
@@ -274,7 +255,6 @@ Démanta
 Airmure
 Malosse
 Démolosse
-Mega Démolosse
 Hyporoi
 Phanpy
 Donphan
@@ -294,21 +274,17 @@ Suicune
 Embrylex
 Ymphect
 Tyranocif
-Mega Tyranocif
 Lugia
 Ho-Oh
 Celebi
 Arcko
 Massko
 Jungko
-Mega Jungko
 Poussifeu
 Galifeu
 Braségali
-Mega Braségali
 Gobou
 Flobio
-Mega Laggron
 Laggron
 Medhyèna
 Grahyèna
@@ -334,7 +310,6 @@ Bekipan
 Tarsal
 Kirlia
 Gardevoir
-Mega Gardevoir
 Arakdo
 Maskadra
 Balignon
@@ -355,19 +330,14 @@ Tarinor
 Skitty
 Delcatty
 Ténéfix
-Mega Ténéfix
 Mystibule
-Mega Mystibule
 Galekid
 Galegon
 Galeking
-Mega Galeking
 Méditikka
 Charmina
-Mega Charmina
 Dynavolt
 Elecsprint
-Mega Elecsprint
 Posipi
 Négapi
 Muciole
@@ -377,12 +347,10 @@ Gloupti
 Avaltout
 Carvanha
 Sharpedo
-Mega Sharpedo
 Wailmer
 Wailord
 Chamallot
 Camérupt
-Mega Camérupt
 Chartor
 Spoink
 Groret
@@ -394,7 +362,6 @@ Cacnéa
 Cacturne
 Tylton
 Altaria
-Mega Altaria
 Mangriff
 Séviper
 Séléroc
@@ -418,17 +385,14 @@ Morphéo
 Kecleon
 Polichombr
 Branette
-Mega Branette
 Skelénox
 Téraclope
 Tropius
 Eoko
 Absol
-Mega Absol
 Okéoké
 Stalgamin
 Oniglali
-Mega Oniglali
 Obalie
 Phogleur
 Kaymorse
@@ -440,24 +404,19 @@ Lovdisc
 Draby
 Drackhaus
 Drattak
-Mega Drattak
 Terhal
 Métang
 Métalosse
-Mega Métalosse
 Regirock
 Regice
 Registeel
 Latias
-Mega Latias
 Latios
-Mega Latios
 Kyogre
 Primal Kyogre
 Groudon
 Primal Groudon
 Rayquaza
-Mega Rayquaza
 Jirachi
 Deoxys
 Deoxys
@@ -512,7 +471,6 @@ Baudrive
 Grodrive
 Laporeille
 Lockpin
-Mega Lockpin
 Magirêve
 Corboss
 Chaglam
@@ -530,11 +488,9 @@ Spiritomb
 Griknot
 Carmache
 Carchacrok
-Mega Carchacrok
 Goinfrex
 Riolu
 Lucario
-Mega Lucario
 Hippopotas
 Hippodocus
 Rapion
@@ -547,7 +503,6 @@ Luminéon
 Babimanta
 Blizzi
 Blizzaroi
-Mega Blizzaroi
 Dimoret
 Magnézone
 Coudlangue
@@ -563,7 +518,6 @@ Scorvol
 Mammochon
 Porygon-Z
 Gallame
-Mega Gallame
 Tarinorme
 Noctunoir
 Momartik
@@ -627,7 +581,6 @@ Rhinolove
 Rototaupe
 Minotaupe
 Nanméouie
-Mega Nanméouie
 Charpenti
 Ouvrifier
 Bétochef
@@ -847,7 +800,6 @@ Zygarde
 Zygarde
 Zygarde
 Diancie
-Mega Diancie
 Hoopa
 Hoopa
 Volcanion
@@ -1034,10 +986,8 @@ Lanssorien
 Zacian
 Zacian
 Zamazenta
-Zamazenta
 Ethernatos
 Wushours
-Shifours
 Shifours
 Zarude
 Regieleki
@@ -1045,6 +995,3 @@ Regidrago
 Blizzeval
 Spectreval
 Sylveroy
-Sylveroy
-Sylveroy
-Mattheo
